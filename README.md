@@ -13,25 +13,22 @@ I've helped small and medium-size businesses and organizations grow and streamli
 [![Discord: Bryl's Server](https://img.shields.io/badge/-Join_my_Discord_Community!-darkblue?style=flat-square&logo=discord&logoColor=white&link=https://www.discord.link/bryl)](https://www.discord.link/bryl)
 
 ---
+*Check out my content*
+
+[![Bryl Lim Medium](https://github-readme-medium.vercel.app/?username=bryllim)](https://medium.com/@bryllim)
+
 [![TikTok: bryllim](https://img.shields.io/badge/-TikTok-black?style=flat-square&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@bryllim)](https://www.tiktok.com/@bryllim)
 [![Medium: bryllim](https://img.shields.io/badge/-Medium-gray?style=flat-square&logo=medium&logoColor=white&link=https://bryllim.medium.com)](https://bryllim.medium.com)
 [![Youtube: Bryl Lim](https://img.shields.io/badge/-Youtube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.discord.link/bryl)](https://www.discord.link/bryl)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8tFdNvlHo0xclR9w9JGcAg?style=social)![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC8tFdNvlHo0xclR9w9JGcAg?style=social)
 
-[![Bryl Lim Medium](https://github-readme-medium.vercel.app/?username=bryllim)](https://medium.com/@bryllim)
-
 
 ---
+*Connect with me*
 
 [![Linkedin: Bryl Kezter Lim](https://img.shields.io/badge/-Bryl_Kezter_Lim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryllim/)](https://www.linkedin.com/in/bryllim/)
 [![Linkedin: Bryl Kezter Lim](https://img.shields.io/badge/-bryl.lim-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bryl.lim/)](https://www.instagram.com/bryl.lim/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/bryllim_?style=social)
 
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bryllim&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryllim&layout=compact&theme=light)
-
-
-
-
